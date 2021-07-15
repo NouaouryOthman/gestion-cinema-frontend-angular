@@ -1,0 +1,18 @@
+.clickable{
+  cursor: pointer;
+}
+
+.img {
+  width:auto;
+  text-align:center;
+  padding:20px;
+}
+img {
+  max-width:100%;
+  height:auto;
+}
+
+.ticket{
+  margin: 5px;
+  width: 40px;
+}
